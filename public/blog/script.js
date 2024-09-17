@@ -32,9 +32,20 @@ let authorLink = ""; // Enter your website, social media, etc. Some way for peop
 
 let postsArray = [
 //[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ) ],
-//[ "posts/2020-11-10-My-Third-Post-Example.html" ],
-//[ "posts/2020-11-10-My-Second-Post-Example.html" ],
+// hi nova! here's two example posts to add onto the post template if you'd like
+//
+// no custom title (displays as "My Post")
+// [ "posts/2024-09-17-My-Post.html" ] ];
+//
+// custom title
+// [ "posts/2024-09-16-Only-Appears-on-URL.html", encodeURI( 'My Post' ) ],
+//
+// please see my blog for more formatting help or ask for snippets!
+
+// this line can be removed after adding a blog post here
 [ "posts/2020-11-10-Post-Template.html" ] ];
+// html cheat sheet is not listed here
+// you're allowed to copy that cheat sheet btw
 
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
