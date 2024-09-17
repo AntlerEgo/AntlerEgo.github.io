@@ -32,7 +32,8 @@ let authorLink = ""; // Enter your website, social media, etc. Some way for peop
 
 let postsArray = [
 //[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ) ],
-// hi nova! here's two example posts to add onto the post template if you'd like
+// hi nova! this is where you add blog posts to the lists, i added a template below for you
+// here's two example posts to add onto the post template if you'd like
 //
 // no custom title (displays as "My Post")
 // [ "posts/2024-09-17-My-Post.html" ] ];
