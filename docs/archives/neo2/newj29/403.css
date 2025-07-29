@@ -1,0 +1,32 @@
+/* basic styling rules */
+/* setting just the body will change the font of everything it, u dont need to specify it all by hand */
+body { 
+  font-family: "Segoe UI", Arial, sans-serif; /* set the font */
+  /* next two lines are the color scheme. second line will  */
+  background-color: black; 
+  color: red;
+}
+
+
+/* set properties of h1s here instead of in a style= */
+h1 { 
+  font-size: 75px;
+  color: red;
+}
+
+/* just apply it to all a's lol, why do you need it to be specifically in a div? */
+a {
+  font-size: 25px;
+  text-decoration: none;
+  color: dodgerblue; /* do not follow body color configuration */
+}
+
+/* old nav css we don't need */
+/* 
+.link-bar {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 40px;
+  flex-wrap: wrap;
+} /*
