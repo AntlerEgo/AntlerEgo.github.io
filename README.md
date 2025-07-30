@@ -9,5 +9,5 @@ NeoCities - https://antlerego.neocities.org
 
 # Credits
 [DJSng](https://github.com/djsng4) - Contributions, code formatting, big help  
-[NomNomNami](https://nomnomnami.com/) - Templates
+[NomNomNami](https://nomnomnami.com/) - Templates  
 [Sadgrl's Layout Builder](https://sadgrlonline.github.io/archived-sadgrl.online/projects/layout-builder/) - Original layout of xm3.neocities.org
